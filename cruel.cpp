@@ -224,7 +224,7 @@ int main(int argc, char*argv[]) {
 	vector<int>::iterator as__ = sab_.end();
 	//std::sort(a__, as__);
 	int alb[100];
-	100[alb];// - the same as *(alb+100)
+	100[alb];// -  the same as *(alb+100)
 	cout << gpntb<<endl;
 	something(int());
 	tr t_;
